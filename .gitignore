@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist/
+build/
+out/
+coverage/
+.tmp/
+.temp/
+
+# Environment variables
+.env
+.env.*.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Optional: TypeScript
+*.tsbuildinfo
+
+# Optional: Jest
+coverage/
+jest-coverage/
+
+# Optional: ESLint cache
+.eslintcache
+
+# Optional: Babel cache
+.babel_cache/
+.cache/
+
+# Optional: Next.js
+.next/
+
+# Optional: Nuxt.js
+.nuxt/
