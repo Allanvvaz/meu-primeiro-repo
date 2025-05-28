@@ -6,8 +6,8 @@ Olá! Somos um grupo de entusiastas com diferentes trilhas e hobbies. Conheça u
 
 ## Allan Victor
 
-* **Trilha:** [Preencha a trilha do Allan aqui]
-* **Hobby:** [Preencha o hobby do Allan aqui]
+* **Trilha:** Trilha de QA
+* **Hobby:** Meu hobby é jogar, treinar e sair com os amigos quando possivel
 
 ---
 
