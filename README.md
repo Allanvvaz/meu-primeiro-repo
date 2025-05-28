@@ -62,13 +62,13 @@ Esta é uma breve explicação de como cada membro da icônica tripulação do C
 
 * **Recrutamento:** Jinbe, o "Cavaleiro do Mar", é um tritão e um dos ex-Sete Senhores da Guerra do Mar. Ele prometeu a Luffy que se juntaria à sua tripulação no futuro, após os eventos de Impel Down e Marineford. Ele cumpriu sua promessa **oficialmente no arco de Wano**, quando finalmente pôde se juntar a eles sem pendências. Jinbe se tornou o timoneiro da tripulação, um mestre na navegação e combate aquático, e um valioso aliado na jornada de Luffy.
 
----
-
-Este README fornece uma visão geral dos recrutamentos mais marcantes da tripulação do Chapéu de Palha. Cada membro traz uma história única e habilidades essenciais para a jornada de Luffy!# Sobre Nós
+# Sobre Nós
 
 Olá! Somos um grupo de entusiastas com diferentes trilhas e hobbies. Conheça um pouco sobre cada um de nós:
 
+
 ---
+
 
 ## Allan Victor
 
@@ -91,13 +91,48 @@ Olá! Somos um grupo de entusiastas com diferentes trilhas e hobbies. Conheça u
 
 ---
 
-<h2>Victor Rezende</h2>
+## Victor Rezende
 
 * **Trilha:** Trilha de Dados
 * **Hobby:** Jogar RPG, Assistir Anime, Atuar em peças de teatro
 
 ---
 
-### Como preencher as informações:
+# Projetos
 
-Basta substituir os `[Preencha...]` com as informações corretas de cada pessoa.
+## Taskify
+
+Um gerenciador de tarefas simples e intuitivo para organizar seu dia a dia.
+
+###  Funcionalidades
+
+- Criar, editar e excluir tarefas
+- Marcar tarefas como concluídas
+- Filtrar tarefas por status
+- Interface responsiva (mobile e desktop)
+
+###  Tecnologias
+
+- React
+- TypeScript
+- Tailwind CSS
+- Firebase (para autenticação e banco de dados)
+
+## FinControl
+
+Uma aplicação web para organizar suas finanças pessoais de forma prática e visual.
+
+### Funcionalidades
+
+- Adicionar receitas e despesas
+- Categorizar transações (alimentação, transporte, lazer etc.)
+- Visualizar gráficos de gastos mensais
+- Exportar dados em CSV
+
+###  Tecnologias Utilizadas
+
+- Vue.js
+- Vuex (controle de estado)
+- Chart.js (gráficos)
+- LocalStorage (persistência local)
+
