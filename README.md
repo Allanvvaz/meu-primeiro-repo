@@ -13,8 +13,8 @@ Olá! Somos um grupo de entusiastas com diferentes trilhas e hobbies. Conheça u
 
 ## Felipe Pires
 
-* **Trilha:** [Preencha a trilha do Felipe aqui]
-* **Hobby:** [Preencha o hobby do Felipe aqui]
+* **Trilha:** Trilha de QA
+* **Hobby:** Jogos, Animes, Guitarra.
 
 ---
 
