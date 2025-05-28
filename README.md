@@ -27,8 +27,8 @@ Olá! Somos um grupo de entusiastas com diferentes trilhas e hobbies. Conheça u
 
 <h2>Victor Rezende</h2>
 
-* **Trilha:** [Preencha a trilha do Victor aqui]
-* **Hobby:** [Preencha o hobby do Victor aqui]
+* **Trilha:** Trilha de Dados
+* **Hobby:** Jogar RPG, Assistir Anime, Atuar em peças de teatro
 
 ---
 
