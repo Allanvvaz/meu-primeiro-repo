@@ -20,8 +20,8 @@ Olá! Somos um grupo de entusiastas com diferentes trilhas e hobbies. Conheça u
 
 ## Gabriel Ortiz
 
-* **Trilha:** [Preencha a trilha do Gabriel aqui]
-* **Hobby:** [Preencha o hobby do Gabriel aqui]
+-  **Trilha:** Trilha de Full-stack
+-  **Hobby:** Animes e Esportes no geral
 
 ---
 
