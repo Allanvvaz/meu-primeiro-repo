@@ -6,29 +6,29 @@ Olá! Somos um grupo de entusiastas com diferentes trilhas e hobbies. Conheça u
 
 ## Allan Victor
 
-* **Trilha:** [Preencha a trilha do Allan aqui]
-* **Hobby:** [Preencha o hobby do Allan aqui]
+-  **Trilha:** [Preencha a trilha do Allan aqui]
+-  **Hobby:** [Preencha o hobby do Allan aqui]
 
 ---
 
 ## Felipe Pires
 
-* **Trilha:** [Preencha a trilha do Felipe aqui]
-* **Hobby:** [Preencha o hobby do Felipe aqui]
+-  **Trilha:** [Preencha a trilha do Felipe aqui]
+-  **Hobby:** [Preencha o hobby do Felipe aqui]
 
 ---
 
 ## Gabriel Ortiz
 
-* **Trilha:** [Preencha a trilha do Gabriel aqui]
-* **Hobby:** [Preencha o hobby do Gabriel aqui]
+-  **Trilha:** Trilha de Full-stack
+-  **Hobby:** Animes e Esportes no geral
 
 ---
 
 <h2>Victor Rezende</h2>
 
-* **Trilha:** [Preencha a trilha do Victor aqui]
-* **Hobby:** [Preencha o hobby do Victor aqui]
+-  **Trilha:** [Preencha a trilha do Victor aqui]
+-  **Hobby:** [Preencha o hobby do Victor aqui]
 
 ---
 
